@@ -1,0 +1,2 @@
+# SECI2143-01-01-2024-2025-2-PROBABILITY-AND-STATISTICAL-DATA-ANALYSIS
+This course covers the fundamental concepts of probability and statistics, focusing on data collection, analysis, interpretation, and presentation. Students will learn techniques such as descriptive statistics, probability distributions, hypothesis testing, correlation, and regression, with practical applications using statistical software.
